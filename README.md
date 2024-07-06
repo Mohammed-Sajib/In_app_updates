@@ -135,6 +135,11 @@ public class MainActivity extends AppCompatActivity {
 
 After meeting these requirements, your app can support the following UX for in-app updates:
 
+## Update flows:
+Your app can use the Google Play Core libraries to support the following UX flows for in-app updates:
+## Flexible updates:
+Flexible updates provide background download and installation with graceful state monitoring. This UX flow is appropriate when it's acceptable for the user to use the app while downloading the update. For example, you might want to encourage users to try a new feature that's not critical to the core functionality of your app.
+
 ##### Immediate:
 A full screen user experience that requires the user to update and restart the app in order to continue using the app. This UX is best for cases where an update is critical for continued use of the app. After a user accepts an immediate update, Google Play handles the update installation and app restart.
 
@@ -147,7 +152,7 @@ A user experience that provides background download and installation with gracef
 
 ## Contact
 #### Mohammad Sajib
-* :globe_with_meridians: Facebook: [https://www.facebook.com/mohammadsajib8 "Mohaamad Sajib on Facebook")
+* :facebook: Facebook: [https://www.facebook.com/mohammadsajib8/ "Mohaamad Sajib on Facebook")
 * :email: e-mail: mdsajib3k@gmail.com
 * :mag_right: LinkedIn: [Mohaamad Sajib](https://www.linkedin.com/in/mohammad-sajib0/ "Mohaamad Sajib on LinkedIn")
 * :thumbsup: Twitter: [@Tech miui](https://twitter.com/tech_miui "Mohaamad Sajib on twitter")    
