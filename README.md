@@ -144,6 +144,6 @@ A user experience that provides background download and installation with gracef
 #### Mohammad Sajib
 * :globe_with_meridians: Facebook: [https://www.facebook.com/mohammadsajib8 "Mohaamad Sajib on Facebook")
 * :email: e-mail: mdsajib3k@gmail.com
-* :mag_right: LinkedIn: [PrabhakarThota](https://www.linkedin.com/in/mohammad-sajib0/ "Mohaamad Sajib on LinkedIn")
-* :thumbsup: Twitter: [@myinnos](https://twitter.com/tech_miui "Mohaamad Sajib on twitter")    
-* :camera: Instagram: [@prabhakar_t_](https://www.instagram.com/mohammad_sajib0/ "Mohaamad Sajib on Instagram")   
+* :mag_right: LinkedIn: [Mohaamad Sajib](https://www.linkedin.com/in/mohammad-sajib0/ "Mohaamad Sajib on LinkedIn")
+* :thumbsup: Twitter: [@Tech miui](https://twitter.com/tech_miui "Mohaamad Sajib on twitter")    
+* :camera: Instagram: [@Mohaamad Sajib_](https://www.instagram.com/mohammad_sajib0/ "Mohaamad Sajib on Instagram")   
