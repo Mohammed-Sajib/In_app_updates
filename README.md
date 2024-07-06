@@ -77,8 +77,8 @@ public class MainActivity extends AppCompatActivity {
             }
         }
     };
-
-**Step 4:** void showCompletedUpdate
+```
+**Step 5:** void showCompletedUpdate
 ```java
     private void showCompletedUpdate() {
         Snackbar snackbar = Snackbar.make(findViewById(android.R.id.content), "New app is ready!",
@@ -93,7 +93,7 @@ public class MainActivity extends AppCompatActivity {
 
     }
 ```
-**Step 5:** void onStop
+**Step 6:** void onStop
 ```java
     @Override
     protected void onStop() {
@@ -112,7 +112,7 @@ public class MainActivity extends AppCompatActivity {
         super.onActivityResult(requestCode, resultCode, data);
     }
 ```
-**Step 4:** onResume
+**Step 7:** onResume
 ```java
     @Override
     protected void onResume() {
