@@ -44,6 +44,7 @@ public class MainActivity extends AppCompatActivity {
     private AppUpdateManager mAppUpdateManager;
 
 **Step 3:** void inAppUpdate
+```java
  private void inAppUpdate() {
         mAppUpdateManager = AppUpdateManagerFactory.create(this);
         mAppUpdateManager.getAppUpdateInfo().addOnSuccessListener(new OnSuccessListener<AppUpdateInfo>() {
@@ -65,7 +66,8 @@ public class MainActivity extends AppCompatActivity {
     }
 
 
-    **Step 4:**InstallStateUpdatedListener
+**Step 4:**InstallStateUpdatedListener
+```java
     //======================
     private InstallStateUpdatedListener installStateUpdatedListener = new InstallStateUpdatedListener() {
         @Override
@@ -77,6 +79,7 @@ public class MainActivity extends AppCompatActivity {
     };
 
 **Step 4:** void showCompletedUpdate
+```java
     private void showCompletedUpdate() {
         Snackbar snackbar = Snackbar.make(findViewById(android.R.id.content), "New app is ready!",
                 Snackbar.LENGTH_INDEFINITE);
@@ -91,6 +94,7 @@ public class MainActivity extends AppCompatActivity {
     }
 
 **Step 5:** void onStop
+```java
     @Override
     protected void onStop() {
         if (mAppUpdateManager != null)
@@ -109,6 +113,7 @@ public class MainActivity extends AppCompatActivity {
     }
 
 **Step 4:** onResume
+```java
     @Override
     protected void onResume() {
         super.onResume();
