@@ -42,7 +42,7 @@ public class MainActivity extends AppCompatActivity {
 
   public static final int RC_APP_UPDATE = 100;
     private AppUpdateManager mAppUpdateManager;
-
+```
 **Step 3:** void inAppUpdate
 ```java
  private void inAppUpdate() {
@@ -65,8 +65,8 @@ public class MainActivity extends AppCompatActivity {
         mAppUpdateManager.registerListener(installStateUpdatedListener);
     }
 
-
-**Step 4:**InstallStateUpdatedListener
+```
+**Step 4:** InstallStateUpdatedListener
 ```java
     //======================
     private InstallStateUpdatedListener installStateUpdatedListener = new InstallStateUpdatedListener() {
@@ -92,7 +92,7 @@ public class MainActivity extends AppCompatActivity {
         snackbar.show();
 
     }
-
+```
 **Step 5:** void onStop
 ```java
     @Override
@@ -111,7 +111,7 @@ public class MainActivity extends AppCompatActivity {
         }
         super.onActivityResult(requestCode, resultCode, data);
     }
-
+```
 **Step 4:** onResume
 ```java
     @Override
