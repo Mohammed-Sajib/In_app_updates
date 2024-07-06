@@ -140,19 +140,18 @@ Your app can use the Google Play Core libraries to support the following UX flow
 ## Flexible updates:
 Flexible updates provide background download and installation with graceful state monitoring. This UX flow is appropriate when it's acceptable for the user to use the app while downloading the update. For example, you might want to encourage users to try a new feature that's not critical to the core functionality of your app.
 
-##### Immediate:
-A full screen user experience that requires the user to update and restart the app in order to continue using the app. This UX is best for cases where an update is critical for continued use of the app. After a user accepts an immediate update, Google Play handles the update installation and app restart.
-
 ![Android-InApp-Update Immediate - Example](https://developer.android.com/images/app-bundle/immediate_flow.png)
-##### Flexible: [BETA]
-A user experience that provides background download and installation with graceful state monitoring. This UX is appropriate when it’s acceptable for the user to use the app while downloading the update. For example, you want to urge users to try a new feature that’s not critical to the core functionality of your app.
+# Figure 1.: An example of a flexible update flow.
+
+Immediate updates
+Immediate updates are fullscreen UX flows that require the user to update and restart the app in order to continue using it. This UX flow is best for cases where an update is critical to the core functionality of your app. After a user accepts an immediate update, Google Play handles the update installation and app restart.
 
 ![Android-InApp-Update Flexible - Example](https://developer.android.com/images/app-bundle/flexible_flow.png)
+# Figure 2.: An example of an immediate update flow.
 ##### Any Queries? or Feedback, please let me know by opening a [new issue](https://github.com/Mohammed-Sajib/In_app_updates)!
 
 ## Contact
 #### Mohammad Sajib
-* :facebook: Facebook: [@Mohaamad Sajib_](https://www.facebook.com/mohammadsajib8/ "Mohaamad Sajib on Facebook")
 * :email: e-mail: mdsajib3k@gmail.com
 * :mag_right: LinkedIn: [Mohaamad Sajib](https://www.linkedin.com/in/mohammad-sajib0/ "Mohaamad Sajib on LinkedIn")
 * :thumbsup: Twitter: [@Tech miui](https://twitter.com/tech_miui "Mohaamad Sajib on twitter")    
