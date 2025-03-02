@@ -155,4 +155,4 @@ Immediate updates are fullscreen UX flows that require the user to update and re
 * :email: e-mail: mdsajib3k@gmail.com
 * :mag_right: LinkedIn: [Mohaamad Sajib](https://www.linkedin.com/in/mohammad-sajib0/ "Mohaamad Sajib on LinkedIn")
 * :thumbsup: Twitter: [@Tech miui](https://twitter.com/tech_miui "Mohaamad Sajib on twitter")    
-* :camera: Instagram: [@Mohaamad Sajib_](https://www.instagram.com/mohammad_sajib0/ "Mohaamad Sajib on Instagram")   
+* :camera: Instagram: [@Mohaamad Sajib_](https://www.instagram.com/mohammadsajib_0 "Mohaamad Sajib on Instagram")   
